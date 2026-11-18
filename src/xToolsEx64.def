@@ -1,0 +1,7 @@
+LIBRARY xToolsEx64.dll
+EXPORTS
+    DllMain
+    DllRegisterServer
+    DllUnregisterServer
+    DllGetClassObject
+    DllCanUnloadNow

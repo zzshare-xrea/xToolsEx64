@@ -1,0 +1,17 @@
+# 编译中间产物
+*.o
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.dll.bak
+
+# 运行期临时文件
+~XTLS50.tmp
+*.bak
+
+# 系统杂物
+Thumbs.db
+desktop.ini
+.DS_Store
